@@ -582,7 +582,7 @@ Robot {
   physics DEF phy Physics {
     mass 1
   }
-  controller "my_controller"
+  controller "kb_controller"
   linearVelocity 4.54255946801862e-06 -1.2715576532044144e-05 -1.7914854622502535e-05
   angularVelocity -2.4331542518899733e-05 1.0133729224750554e-05 2.2228284088922584e-05
 }
